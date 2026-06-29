@@ -9,3 +9,6 @@
 | 3 | Kelly | 06/29 | lncFit - Foundation Model to Predict lncRNA Essentiality | [slides](slides/062926-Kelly-lncFit.pdf) |
 | 4 | Kaye | 07/06 | TBD | |
 | 5 | Brandon | 07/13 | TBD | |
+| 6 | Zach | 07/20 | TBD | |
+| 7 | Johnathan | 07/27 | TBD | |
+| 8 | Erica | 08/03 | TBD | |
